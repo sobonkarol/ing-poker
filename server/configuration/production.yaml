@@ -1,2 +1,2 @@
 application:
-  base_url: "https://ing-poker-apii.onrender.com"
+  host: 0.0.0.0
