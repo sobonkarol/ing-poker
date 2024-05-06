@@ -1,4 +1,4 @@
-schema: 'http://127.0.0.1:8000/'
+schema: 'https://ing-poker-apii.onrender.com'
 documents: './src/**/*.graphql'
 config:
   strictScalars: true
