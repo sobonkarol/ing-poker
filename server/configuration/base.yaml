@@ -1,3 +1,2 @@
 application:
-  port: 8000
-  host: ing-poker-apii.onrender.com
+  base_url: "https://ing-poker-apii.onrender.com"
